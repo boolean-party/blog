@@ -1,3 +1,4 @@
 baseurl = "http://blog.boolean.party/"
 languageCode = "en-us"
 title = "boolean.party resplendent"
+theme = "hugo-cactus-theme"
